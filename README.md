@@ -1,0 +1,2 @@
+# appqr
+Aplicación QR
